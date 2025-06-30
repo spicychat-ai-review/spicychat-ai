@@ -5,16 +5,3 @@ build:
   python_requirements: "requirements.txt"
 
 predict: "predict.py:Predictor"
-
-examples:
-  - input:
-      prompt: "What are the key features of SpicyChat AI?"
-    output: "SpicyChat AI Features: Uncensored chatbot, custom AI partners, 40+ languages, text-to-speech, image replies, 950k+ community characters, minimal guardrails for SFW/NSFW role-play. You asked: What are the key features of SpicyChat AI?"
-  
-  - input:
-      prompt: "How much does SpicyChat AI cost?"
-    output: "SpicyChat AI Pricing: FREE tier with 2K context + ads. Premium $14.99/mo for 4K-8K context, longer replies, no ads, priority servers. You asked: How much does SpicyChat AI cost?"
-  
-  - input:
-      prompt: "What are the alternatives to SpicyChat AI?"
-    output: "SpicyChat AI Alternatives: Character AI (PG-rated), Candy AI ($9.99/mo), Replika ($19.99/mo). SpicyChat wins for unfiltered role-play. You asked: What are the alternatives to SpicyChat AI?"
