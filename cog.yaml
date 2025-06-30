@@ -5,3 +5,8 @@ build:
   python_requirements: "requirements.txt"
 
 predict: "predict.py:Predictor"
+
+examples:
+  - prompt: "What are the key features of SpicyChat AI?"
+  - prompt: "How much does it cost?"
+  - prompt: "Tell me about alternatives"
