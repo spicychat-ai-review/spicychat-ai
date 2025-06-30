@@ -4,8 +4,6 @@
 *By Michael, AI Haven – AI Role-Play Addict, Daily User, “Yes, I’ve clocked 12 
 000+ spicy messages”*
 
-> [**CLICK HERE TO TRY SPICYCHAT AI FREE**](https://spicychat.ai)
-
 ---
 
 ## What Is SpicyChat AI?
@@ -48,8 +46,6 @@ named *Lira*; SpicyChat kept timeline + character arcs straight.
 30-minute daily sessions.
 * **After-hours escapism:** created *Raven*, a vampire bartender, for NSFW 
 role-play few platforms allow.
-
-> [**CLICK HERE TO TRY SPICYCHAT AI FREE**](https://spicychat.ai)
 
 ---
 
@@ -112,8 +108,6 @@ longer replies, no ads, priority servers.
 iOS & Android available—90 % of traffic is mobile, but stability still lags web.
 
 ---
-
-> [**CLICK HERE TO TRY SPICYCHAT AI FREE**](https://spicychat.ai)
 
 ## Final Thoughts — **9.2 / 10**
 
@@ -236,15 +230,6 @@ console.log(output);
 
 Log in at replicate.com, navigate to **Models → Your Models**, select 
 `spicychat/ai-chat`, and try inputs in the Playground.
-
----
-
-## Explore More AI Tools at AI Haven 🚀
-
-Liked this review? **Discover additional AI apps, step-by-step guides, and 
-exclusive deals at [AI Haven](https://aihaven.com/).**  
-Level up your productivity, creativity, and side-hustle income with the best 
-tools in the AI ecosystem—all hand-picked by our team.
 
 ---
 
