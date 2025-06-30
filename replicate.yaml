@@ -1,4 +1,0 @@
-build:
-  command: echo "nothing to build"
-docker:
-  image: docker.io/library/hello-world:latest

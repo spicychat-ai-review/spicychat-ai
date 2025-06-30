@@ -1,7 +1,7 @@
-build:
-  # if you have a Dockerfile, Cog will pick it up automatically.
-  # Otherwise you can leave build empty and Cog will use default Python image.
+image: "r8.im/spicychat-ai-review/spicychat-ai"
 
-predict:
-  # no-op command, since you're just pushing a README
-  command: echo "Readme pushed"
+build:
+  gpu: false
+  python_requirements: "requirements.txt"
+
+predict: "predict.py:Predictor"
