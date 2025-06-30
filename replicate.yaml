@@ -1,0 +1,4 @@
+# replicate.yaml
+image: docker.io/library/hello-world:latest
+run:
+  - echo "noop"
